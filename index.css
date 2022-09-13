@@ -1,0 +1,188 @@
+
+body {
+    margin: 0 auto;
+    background:url("../image/image-8.jpg") no-repeat fixed center;
+    background-size: 100%;
+  }
+.nav-a-1
+{
+width:100%;
+height: 50px;
+display: flex;
+background-color: white;
+}
+.nav-a-1 .title-a-1
+{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 5px;
+    color:rgb(128, 255, 0);
+    font-weight: bold;
+}
+.nav-a-1 .title-a-2
+{
+    display: block;
+    margin: auto;
+    align-items: center;
+    font-size: 30px;
+    margin-right: 60px;
+}
+.nav-a-1 .title-a-3
+{
+    display: block;
+    margin:auto;
+    float: left;
+    margin-left: 5px;
+    font-size: 17px;
+    text-align: center;
+    margin-right: 0px;
+}
+.nav-a-1 .title-a-4
+{
+    font-size: 12px;
+    float: right;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.nav-a-1 .icon-a-1
+{
+    display: block;
+    margin: auto;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 2%;
+    width: 30px;
+    height: 30px;
+}
+.nav-a-1 .icon-a-2
+{
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+    margin-left: 0;
+    margin-right: 0;
+}
+.nav-a-1 .icon-a-3
+{
+    height: 20px;
+    display: block;
+    margin: auto 0;
+    margin-left: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 3px;
+    border-color: black;
+    border-radius: 3px;
+    
+}
+/*Navigation second*/
+.nav-b-2
+{
+    margin-top: 0px;
+    width: 100%;
+    height: 77px;
+    background-color: rgb(9, 2, 204);
+    border-color: white;
+    outline-style: dotted;
+    outline-color: rgb(234, 211, 1);
+    display:flex;
+}
+.nav-b-2 .title-b-1, .title-b-2 ,.title-b-3, .title-b-4,.title-b-5, .title-b-6
+{
+  padding: 30px 20px;
+  margin:auto;
+  display: block;
+  text-align: center;
+  color: white;
+}
+
+
+
+a:link { text-decoration: none; }
+a{color: white;}
+
+.nav-b-2 .title-b-1:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+.nav-b-2 .title-b-2:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+.nav-b-2 .title-b-3:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+.nav-b-2 .title-b-4:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+.nav-b-2 .title-b-5:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+.nav-b-2 .title-b-6:hover
+{
+    background-color: rgb(255, 0, 234);
+    transition: 1s;
+}
+
+
+
+
+
+
+.nav-b-2 .title-b-1:active
+{
+    background-color: rgb(255, 145, 0);
+}
+.nav-b-2 .title-b-2:active
+{
+    background-color: rgb(255, 145, 0);
+}
+.nav-b-2 .title-b-3:active
+{
+    background-color: rgb(255, 145, 0);
+}
+.nav-b-2 .title-b-4:active
+{
+    background-color: rgb(255, 145, 0);
+}
+.nav-b-2 .title-b-5:active
+{
+    background-color: rgb(255, 145, 0);
+}
+.nav-b-2 .title-b-6:active
+{
+    background-color: rgb(255, 145, 0);
+}
+
+.title-a-3
+{
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+
+
+.nav-c-1
+{
+    height: 100vh;
+    width: 80%;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+    background:url()
+}
